@@ -1,0 +1,35 @@
+{
+  "name": "chat_module",
+  "version": "1.0.0",
+  "description": "one to one chat ",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mobiloitte",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^2.1.2",
+    "apn": "^1.7.8",
+    "async-waterfall": "^0.1.5",
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.11.0",
+    "configstore": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fcm": "^1.0.3",
+    "google-translate": "^2.2.0",
+    "google-translate-api": "^2.3.0",
+    "got": "^9.2.2",
+    "mongoose": "^4.13.17",
+    "mongoose-paginate": "^5.0.3",
+    "multiparty": "^4.2.1",
+    "request": "^2.88.0",
+    "socket.io": "^4.1.2",
+    "underscore": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.mobiloitte.com/root/vendorsusersiosandandroidapplications-17113078-mean.git"
+  }
+}
